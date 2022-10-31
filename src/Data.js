@@ -1,0 +1,27 @@
+export const UserData = [
+    {
+        id:1,
+        hour:"10:00",
+        temp:25
+    },
+    {
+        id:2,
+        hour:"11:00",
+        temp:28
+    },
+    {
+        id:3,
+        hour:"12:00",
+        temp:22
+    },
+    {
+        id:4,
+        hour:"13:00",
+        temp:30
+    },
+    {
+        id:5,
+        hour:"14:00",
+        temp:33
+    }
+]
